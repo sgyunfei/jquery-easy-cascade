@@ -1,1 +1,1 @@
-# jquery-easy-cascade
+# jquery-easyUi-cascade
